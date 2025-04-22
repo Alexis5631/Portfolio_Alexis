@@ -680,3 +680,14 @@ footer .arriba{
         width: 100%;
     }
 }
+
+button a {
+    color: white; /* Cambia el color del texto a blanco */
+    text-decoration: none; /* Quita el subrayado */
+}
+
+button {
+    border: none; /* Quita el borde del botón */
+    background: none; /* Quita el fondo del botón */
+    padding: 0; /* Ajusta el padding si es necesario */
+}
